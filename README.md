@@ -4,7 +4,7 @@
 <p align="center">
 🎓 B.Tech Electronics & Communication Engineering <br>
 🏫 KL University, India <br>
-📊 CGPA: 9.8 / 10
+
 </p>
 
 ---
