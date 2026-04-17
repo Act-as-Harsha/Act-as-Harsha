@@ -92,42 +92,7 @@ class YeletiHarshavardhan:
 
 <div align="center">
 
-> ⚙️ **Setup needed:** Create `.github/workflows/snake.yml` in this repo to generate the snake animation automatically on every push.
-
-```yaml
-# .github/workflows/snake.yml
-name: Generate Snake Animation
-
-on:
-  schedule:
-    - cron: "0 0 * * *"
-  workflow_dispatch:
-  push:
-    branches:
-      - main
-
-jobs:
-  generate:
-    permissions:
-      contents: write
-    runs-on: ubuntu-latest
-    steps:
-      - uses: Platane/snk/svg-only@v3
-        with:
-          github_user_name: ${{ github.repository_owner }}
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-      - uses: crazy-max/ghaction-github-pages@v3
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-```
-
-*Once setup, this line will show your live snake:*
-`https://raw.githubusercontent.com/Act-as-Harsha/Act-as-Harsha/output/github-contribution-grid-snake-dark.svg`
+<img src="https://raw.githubusercontent.com/Act-as-Harsha/Act-as-Harsha/output/github-contribution-grid-snake-dark.svg" />
 
 </div>
 
