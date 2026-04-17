@@ -1,10 +1,32 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Yelleti%20Harshavardhan&fontSize=52&fontColor=00F5FF&fontAlignY=38&desc=ECE%20Student%20%7C%20VLSI%20%26%20Semiconductor%20Enthusiast%20%7C%20Python%20Developer&descAlignY=58&descSize=15&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=180&section=header&text=&fontSize=52&fontColor=00F5FF&fontAlignY=38&animation=fadeIn" />
 
 </div>
 
 <div align="center">
+
+```
+'##::::'##::::'###::::'########:::'######::'##::::'##::::'###::::
+ ##:::: ##:::'## ##::: ##.... ##:'##... ##: ##:::: ##:::'## ##:::
+ ##:::: ##::'##:. ##:: ##:::: ##: ##:::..:: ##:::: ##::'##:. ##::
+ #########:'##:::. ##: ########::. ######:: #########:'##:::. ##:
+ ##.... ##: #########: ##.. ##::::..... ##: ##.... ##: #########:
+ ##:::: ##: ##.... ##: ##::. ##::'##::: ##: ##:::: ##: ##.... ##:
+ ##:::: ##: ##:::: ##: ##:::. ##:. ######:: ##:::: ##: ##:::: ##:
+..:::::..::..:::::..::..:::::..:::......:::..:::::..::..:::::..::.
+
+'##::::'##::::'###::::'########::'########::'##::::'##::::'###::::'##::: ##:
+ ##:::: ##:::'## ##::: ##.... ##: ##.... ##: ##:::: ##:::'## ##::: ###:: ##:
+ ##:::: ##::'##:. ##:: ##:::: ##: ##:::: ##: ##:::: ##::'##:. ##:: ####: ##:
+ ##:::: ##:'##:::. ##: ########:: ##:::: ##: #########:'##:::. ##: ## ## ##:
+. ##:: ##:: #########: ##.. ##::: ##:::: ##: ##.... ##: #########: ##. ####:
+:. ## ##::: ##.... ##: ##::. ##:: ##:::: ##: ##:::: ##: ##.... ##: ##:. ###:
+::. ###:::: ##:::: ##: ##:::. ##: ########:: ##:::: ##: ##:::: ##: ##::. ##:
+:::...:::::..:::::..::..:::::..::........:::..:::::..::..:::::..::..::::..::.
+```
+
+<br/>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=00F5FF&center=true&vCenter=true&width=700&lines=Hi+I'm+Yelleti+Harshavardhan+👋;ECE+%40+KL+University+🎓;VLSI+%26+Semiconductor+Engineer+🔬;Python+%7C+C+%7C+C%2B%2B+Developer+💻;Building+Hardware+%2B+AI+Systems+⚡;From+RTL+to+Real+World+🚀)](https://git.io/typing-svg)
 
